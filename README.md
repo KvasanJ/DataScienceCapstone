@@ -3,6 +3,12 @@
 In this project, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 </p>
 
+## Certificate and Badge
+
+  <a href="https://www.credly.com/badges/6a43e1db-df93-4962-b16d-2334db79a883/public_url">CREDLY BADGE Professional Certificate</a>
+  
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZT66YM6MGX36">IBM Data Science Specialization</a>
+ 
 ## About this Professional Certificate
 Data Science is one of the hottest professions of the decade, and the demand for Data Scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a **career in Data Science or Machine Learning** develop career-relevant skills.
 
@@ -35,9 +41,5 @@ Course 10|[Applied Data Science Capstone]|
 
 Link to this Professional Certification Program is provided **<u>[here](https://www.coursera.org/professional-certificates/ibm-data-science)</u>**
 
-## Certificate and Badge
-Click on the images below to verify the certificate and badge earned <br><br>
-[![](data-science-professional-certificate.png)](https://www.credly.com/badges/6a43e1db-df93-4962-b16d-2334db79a883/public_url)
 
-[![](https://www.coursera.org/account/accomplishments/specialization/certificate/ZT66YM6MGX36)]
 
